@@ -1,6 +1,6 @@
-# Build a Job Board with Python & Flask
+## Build a Job Board with Python & Flask
 
-## Verify Local Environment
+### Verify Local Environment
 
 ### Create Virtual Environment
 
